@@ -1,0 +1,15 @@
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\bin\Debug\ThreadImitationHW.exe.config
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\bin\Debug\ThreadImitationHW.exe
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\bin\Debug\ThreadImitationHW.pdb
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.csprojResolveAssemblyReference.cache
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\MainWindow.g.cs
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\App.g.cs
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW_MarkupCompile.cache
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW_MarkupCompile.lref
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\MainWindow.baml
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.g.resources
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.Properties.Resources.resources
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.csproj.GenerateResource.cache
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.csproj.CoreCompileInputs.cache
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.exe
+C:\Users\8\source\repos\ThreadImitationHW\ThreadImitationHW\obj\Debug\ThreadImitationHW.pdb
